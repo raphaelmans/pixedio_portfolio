@@ -62570,9 +62570,9 @@ $S:2}
 N.iv.prototype={
 G:function(a,b){return new T.cu(C.xG,U.kh(this.c,C.aV,30),null)}}
 R.Gb.prototype={
-G:function(a,b){var s=null,r=b.R(t.w).f.a,q=r.a,p=q<=1000,o=p?10:250,n=p?10:250
+G:function(a,b){var s=null,r=b.R(t.w).f.a,q=r.a,p=q<=1000,o=p?10:250,n=p?10:250,m=p?0:100
 p=p?C.a_:C.cw
-return M.aX(C.pO,new T.cu(new V.al(o,100,n,0),T.cK(H.b([L.cO("ENGAGE",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,M.ajw(q),s,C.aj,s,s,!0,s,s,s,s,s,s),C.cM,s),T.bF(s,35,s),L.cO("Designs that envoke the user's emotions and keeps them \nengaged",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,M.a9F(q),s,s,s,1.6,!0,s,s,s,s,s,s),s,s)],t.t),C.y,p,C.rG),s),s,s,s,r.b,s,s,q)}}
+return M.aX(C.pO,new T.cu(new V.al(o,m,n,0),T.cK(H.b([L.cO("ENGAGE",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,M.ajw(q),s,C.aj,s,s,!0,s,s,s,s,s,s),C.cM,s),T.bF(s,35,s),L.cO("Designs that envoke the user's emotions and keeps them \nengaged",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,M.a9F(q),s,s,s,1.6,!0,s,s,s,s,s,s),s,s)],t.t),C.y,p,C.rG),s),s,s,s,r.b,s,s,q)}}
 F.Hb.prototype={
 G:function(a,b){var s=null,r=b.R(t.w).f.a,q=r.a,p=q<=500?10:100
 return M.aX(s,new T.cu(new V.al(p,0,p,0),M.aX(C.fo,T.cK(H.b([T.bF(s,200,s),L.cO("TARGET",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,M.ajw(q),s,C.aj,s,s,!0,s,s,s,s,s,s),s,s),T.bF(s,35,s),L.cO("Target your users with dynamic designs that represent your\nbrand",s,s,s,s,A.c0(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,1.6,!0,s,s,s,s,s,s),s,s)],t.t),C.y,C.a_,C.rG),s,s,s,s,s,s,500),s),s,s,s,r.b,s,s,q)}}
